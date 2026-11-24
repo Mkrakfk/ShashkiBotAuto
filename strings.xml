@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Шашки Бот AUTO</string>
+    <string name="accessibility_description">Выполняет нажатия по координатам только после команды пользователя.</string>
+</resources>
